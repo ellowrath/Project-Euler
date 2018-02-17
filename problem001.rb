@@ -2,7 +2,6 @@
 # Matt Hivner
 
 count = 0
-#sum = 0
 until count == 1000
     if count % 3 == 0
         sum = sum + count
