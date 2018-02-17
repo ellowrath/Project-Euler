@@ -1,7 +1,6 @@
 # Project Euler solution, Problem 2
 # Matt Hivner
 
-
 i = 0
 j = 1
 sum = 0
